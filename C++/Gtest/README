@@ -1,0 +1,7 @@
+* need
+(google test)
+http://code.google.com/p/googletest/
+
+* compile
+g++ -L/usr/local/lib -Wall gtest.cpp -lgtest
+
